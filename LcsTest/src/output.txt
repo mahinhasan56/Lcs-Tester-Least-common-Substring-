@@ -1,0 +1,2 @@
+The LCS is ATCGATGAATCA
+The length of LCS is 12
